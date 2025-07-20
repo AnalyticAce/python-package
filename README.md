@@ -6,6 +6,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+A developer-friendly wrapper for the Bitnob API.
 
 ## ⚠️ Legal Disclaimer
 
@@ -21,7 +22,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**⚡ Powered by [Bit](https://bitnob.com/) ⚡**
+**⚡ Powered by [Bitnob](https://bitnob.com/) ⚡**
 
 [![GitHub Stars](https://img.shields.io/github/stars/AnalyticAce/BitnobSDK?style=social)](https://github.com/AnalyticAce/BitnobSDK)
 [![GitHub Forks](https://img.shields.io/github/forks/AnalyticAce/BitnobSDK?style=social)](https://github.com/AnalyticAce/BitnobSDK/fork)
