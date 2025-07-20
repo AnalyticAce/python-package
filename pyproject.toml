@@ -1,0 +1,24 @@
+[project]
+name = "bitnob_sdk"
+version = "0.1.0"
+description = "A developer-friendly wrapper for the Bitnob API."
+authors = [
+    { name = "AnalyticAce (DOSSEH Shalom)", email = "dossehdosseh14@gmail.com" }
+]
+keywords = ["crypto", "trading", "bitnob", "finance"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Developers",
+]
+
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pydantic>=2.11.7",
+    "requests>=2.32.4",
+]
+
+[project.urls]
+Homepage = "https://analyticace.github.io/BitnobSDK/"
