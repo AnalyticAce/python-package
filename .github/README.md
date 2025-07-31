@@ -121,7 +121,7 @@ mkdocs build  # Build static files
 After setting up your package, you can remove template files:
 
 ```bash
-rm template-config.md setup_template.py TEMPLATE_README.md
+rm template-config.md setup_template.py .github/README.md
 ```
 
 ## 📄 License

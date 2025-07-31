@@ -53,9 +53,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/AnalyticAce
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/shalom-dosseh-4a484a262/
+      link: https://github.com/{GITHUB_USERNAME}
   analytics:
     provider: google
     property: G-8WHJ2N4SHC
