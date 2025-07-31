@@ -1,4 +1,4 @@
-# Contributing to {PACKAGE_DISPLAY_NAME}
+# Contributing to PythonPackage Template
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
@@ -73,7 +73,7 @@ further defined and clarified by project maintainers.
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [{AUTHOR_EMAIL}](mailto:{AUTHOR_EMAIL}). All
+reported by contacting the project team at [dossehdosseh14@gmail.com](mailto:dossehdosseh14@gmail.com). All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
