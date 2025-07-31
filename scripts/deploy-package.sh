@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # deploy-package.sh
-# This script automates the deployment process for the bitnob-sdk package
+# This script automates the deployment process for the {PACKAGE_NAME} package
 # using the UV package manager for Python projects.
 
 set -e  # Exit immediately if a command exits with a non-zero status
@@ -8,7 +8,7 @@ set -e  # Exit immediately if a command exits with a non-zero status
 # Display banner
 echo ""
 echo "╔════════════════════════════════════════════════════════╗"
-echo "║           🚀 Bitnob SDK Deployment 🚀                  ║"
+echo "║           🚀 {PACKAGE_DISPLAY_NAME} Deployment 🚀                  ║"
 echo "╠════════════════════════════════════════════════════════╣"
 echo "║   Automating build & publish with UV package manager   ║"
 echo "╚════════════════════════════════════════════════════════╝"

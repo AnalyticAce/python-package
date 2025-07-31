@@ -1,11 +1,11 @@
-site_name: Bitnob Python SDK - Documentation
-site_url: https://analyticace.github.io/BitnobSDK
+site_name: {PACKAGE_DISPLAY_NAME} - Documentation
+site_url: https://{GITHUB_USERNAME}.github.io/{REPOSITORY_NAME}
 site_description: >-
-  A developer-friendly wrapper for the Bitnob API.
-site_author: DOSSEH Shalom
+  {PACKAGE_DESCRIPTION}
+site_author: {AUTHOR_NAME}
 
-repo_name: AnalyticAce/BitnobSDK
-repo_url: https://github.com/AnalyticAce/BitnobSDK
+repo_name: {GITHUB_USERNAME}/{REPOSITORY_NAME}
+repo_url: https://github.com/{GITHUB_USERNAME}/{REPOSITORY_NAME}
 
 theme:
   name: material

@@ -1,11 +1,11 @@
 [project]
-name = "bitnob_sdk"
+name = "{PACKAGE_NAME}"
 version = "0.1.0"
-description = "A developer-friendly wrapper for the Bitnob API."
+description = "{PACKAGE_DESCRIPTION}"
 authors = [
-    { name = "AnalyticAce (DOSSEH Shalom)", email = "dossehdosseh14@gmail.com" }
+    { name = "{AUTHOR_NAME}", email = "{AUTHOR_EMAIL}" }
 ]
-keywords = ["crypto", "trading", "bitnob", "finance"]
+keywords = ["{KEYWORD_1}", "{KEYWORD_2}", "{KEYWORD_3}", "{KEYWORD_4}"]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
@@ -21,4 +21,4 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://analyticace.github.io/BitnobSDK/"
+Homepage = "https://{GITHUB_USERNAME}.github.io/{REPOSITORY_NAME}/"
