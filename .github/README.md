@@ -94,6 +94,27 @@ After setup, develop your package by:
    uv remove unwanted-dependency
    ```
 
+## 🔐 Environment Variables
+
+### GitHub Actions Workflows
+
+For publishing your package to PyPI, you'll need to configure the `PYPI_API_TOKEN` in your GitHub repository:
+
+#### Setting up PYPI_API_TOKEN
+
+1. **Create a PyPI API Token:**
+   - Go to [PyPI Account Settings](https://pypi.org/manage/account/)
+   - Navigate to "API tokens"
+   - Click "Add API token"
+   - Set scope to "Entire account" or specific to your project
+   - Copy the generated token (starts with `pypi-`)
+
+2. **Add to GitHub Repository Secrets:**
+   - Go to your repository Settings → Secrets and variables → Actions
+   - Click "New repository secret"
+   - Name: `PYPI_API_TOKEN`
+   - Value: Your PyPI token (e.g., `pypi-xxxxxxxxxxxx`)
+
 ## 🚀 Deployment
 
 Use the included deployment script:
